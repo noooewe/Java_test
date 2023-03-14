@@ -1,11 +1,11 @@
 package java_test;
 
-public class Test1 {
+public class Test2 {
 
 	public static void main(String[] args) {
 		// TODO 자동 생성된 메소드 스텁
-String a = "홍승빈";
-System.out.println(a);
+String b = "장태훈";
+System.out.println(b);
 	}
 
 }
